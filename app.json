@@ -1,0 +1,23 @@
+{
+    "name":"hacker777",
+    "description":"Webserver of hacker777",
+    "env":{
+        "SESSION":{
+            "description":"Telethon session",
+            "value":""
+        },
+        "API_ID":{
+            "description":"API ID from https://my.telegram.org",
+            "value":""
+        },
+        "API_HASH":{
+            "description":"API HASH from https://my.telegram.org",
+            "value":""
+        }
+    },
+    "buildpacks":[
+        {
+            "url":"heroku/python"
+        }
+    ]
+}
