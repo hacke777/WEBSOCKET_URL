@@ -4,7 +4,6 @@ repo 1 Develope with onther heroku account not same
 
 
 
-
 https://replit.com/@hacke777/Telgarm-sterings(for strings)
 
 @botfather (for bot token )
